@@ -8,19 +8,23 @@
     @section('sidebar')
 
     @show
-    <div class="container">
-      
-  <div class="row">
-    <div class="col"></div> 
-  <div class="col"></div>
-  <div class="col">
-    <a href="/">Acceuil</a>
-    <a href="qui">Qui sont-ils </a>
-    <a href="diaporama">Diaporama </a>
-    <a href="contact">Contact</a>
-  </div>
-</div>
-</div>
+
+    <ul class="nav justify-content-end">
+  <li class="nav-item">
+    <a class="nav-link active" href="/">Acceuil</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/qui">Qui sont-ils </a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="/diaporama">Diaporama</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link " href="/contact">Contact</a>
+  </li>
+</ul>
+
+    
 
 <div class="container">
     @yield('content')

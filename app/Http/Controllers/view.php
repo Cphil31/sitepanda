@@ -25,4 +25,8 @@ class view extends Controller
     {
         return view('contact');
     }
+    public function video()
+    {
+        return view('video');
+    }
 }
