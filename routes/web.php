@@ -13,3 +13,5 @@
 
 Route::get('/', 'view@home');
 Route::get('/qui', 'view@qui');
+Route::get('/diaporama', 'view@diaporama');
+Route::get('/contact', 'view@contact');

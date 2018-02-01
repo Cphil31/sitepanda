@@ -15,4 +15,14 @@ class view extends Controller
     {
         return view('qui');
     }
+
+    public function diaporama()
+    {
+        return view('diaporama');
+    }
+
+    public function contact()
+    {
+        return view('contact');
+    }
 }
