@@ -1,4 +1,22 @@
-.cont{
-	color:black;
-	margin-bottom:3em; 
-	}
+body{
+	background-color: grey;
+}
+a{
+margin-top: 1em;	
+margin-bottom:3em; 
+color:black;
+}
+p{
+text-align: center;
+}
+.source{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+	margin-top:10%;
+	background-color:black;
+	color:white;
+	height: 10%;
+	text-align:right;
+}
