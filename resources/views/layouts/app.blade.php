@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>App Name - @yield('title')</title>
+    <title>Site Panda - @yield('title')</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="../css/app.css">
 </head>
@@ -8,23 +8,24 @@
     @section('sidebar')
 
     @show
+    <div class="cont">
+        
+        <ul class="nav justify-content-end">
+          <li class="nav-item">
+            <a class="nav-link active" href="/">Acceuil</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/qui">Qui sont-ils </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/diaporama">Diaporama</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="/contact">Contact</a>
+        </li>
+    </ul>
 
-    <ul class="nav justify-content-end">
-  <li class="nav-item">
-    <a class="nav-link active" href="/">Acceuil</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/qui">Qui sont-ils </a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/diaporama">Diaporama</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link " href="/contact">Contact</a>
-  </li>
-</ul>
-
-    
+</div>
 
 <div class="container">
     @yield('content')
