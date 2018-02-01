@@ -9,5 +9,5 @@
 @endsection
 
 @section('content')
-    <p>qui sont-ils ? </p>
+    <p>Qui sont-ils ? </p>
 @endsection
