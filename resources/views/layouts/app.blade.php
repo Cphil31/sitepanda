@@ -7,7 +7,7 @@
             
         @show
         <a href="/">Acceuil</a>
-        <a href="qui">qui somme nous </a>
+        <a href="qui">Qui sont-ils </a>
         <a href="diaporama">Diaporama </a>
         <a href="contact">Contact</a>
         
