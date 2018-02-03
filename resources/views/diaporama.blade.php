@@ -9,12 +9,12 @@
 @endsection
 
 @section('content')
-    <h1>Diaporama</h1>
+    <h1 class="titrediapo">Diaporama</h1>
 
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="../resources/pictures/mammal-3074618__340.jpg/350/100" alt="First slide">
+      <img class="d-block w-100" src="https://cdn.pixabay.com/photo/2018/01/10/19/34/mammal-3074618_960_720.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="http://via.placeholder.com/350x100" alt="Second slide">
