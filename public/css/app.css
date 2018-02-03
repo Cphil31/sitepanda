@@ -1,6 +1,9 @@
 body{
 	background-color: grey;
 }
+.bienvenue{
+	margin-top:3em;
+}
 h1{
 	text-align:center;
 }
