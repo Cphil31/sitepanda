@@ -42,7 +42,7 @@
         <a href="https://fr.wikipedia.org/wiki/Panda" style="color:white;" target="_blank">wikipedia</a> 
         <a href="https://www.zoobeauval.com/les-animaux/en-vedette/pandas-geants" style="color:white;" target="_blank">, zoo de beauval</a>
     </div>
-    <div >Sources images : <a href="https://pixabay.com/" style="color:white;" target="_blank">>pixabay</a> </div>
+    <div >Sources images : <a href="https://pixabay.com/" style="color:white;" target="_blank">pixabay</a> </div>
 </div>
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
