@@ -31,7 +31,7 @@
     @yield('content')
 </div>
 <div class="source">
-    <div >Sources texte : </div>
+    <div >Sources texte : <a href="https://pixabay.com/" style="color:white;">pixabay</a> </div>
     <div >Sources images : </div>
 </div>
 

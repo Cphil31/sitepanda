@@ -17,10 +17,13 @@
       <img class="d-block w-100" src="https://cdn.pixabay.com/photo/2018/01/10/19/34/mammal-3074618_960_720.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="http://via.placeholder.com/350x100" alt="Second slide">
+      <img class="d-block w-100" src="https://cdn.pixabay.com/photo/2017/12/26/16/31/panda-3040830_960_720.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="http://via.placeholder.com/350x100" alt="Third slide">
+      <img class="d-block w-100" src="https://cdn.pixabay.com/photo/2015/02/26/06/09/panda-649938_960_720.jpg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="https://cdn.pixabay.com/photo/2017/08/10/20/20/pandas-2627426_960_720.jpg" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -31,5 +34,5 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+  </div>
 @endsection
