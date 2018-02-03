@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-    <p>Diaporama</p>
+    <h1>Diaporama</h1>
 
     <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">

@@ -9,5 +9,5 @@
 @endsection
 
 @section('content')
-    <p>Vidéos</p>
+    <h1>Vidéos</h1>
 @endsection

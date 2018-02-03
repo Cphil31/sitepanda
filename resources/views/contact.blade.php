@@ -9,5 +9,5 @@
 @endsection
 
 @section('content')
-    <p>Contact</p>
+    <h1>Contact</h1>
 @endsection
