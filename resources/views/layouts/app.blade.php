@@ -26,10 +26,17 @@
     </li>
 </ul>
 
-
-<div class="container">
-    @yield('content')
+<div class="row">
+    <div class="col-1"></div>  
+    <div class="col-10">
+       <div class="container">
+            @yield('content')
+        </div> 
+    </div>
+    <div class="col-1"></div>
 </div>
+
+
 <div class="source">
     <div >Sources texte : <a href="https://pixabay.com/" style="color:white;" target="_blank">>pixabay</a></div>
     <div >Sources images : <a href="https://pixabay.com/" style="color:white;" target="_blank">>pixabay</a> </div>
