@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-<h1>Qui sont-ils ? </h1>
+		<h1 class="qui"> Qui sont-ils ? </h1>
 		<p>
 			le panda géant (Ailuropoda melanoleuca), une espèce d'ours herbivore, ou les autres espèces fossiles du genre Ailuropoda.
 		</p>

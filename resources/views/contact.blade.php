@@ -9,7 +9,7 @@
 @endsection
 
 @section('content')
-<h1 class="titrediapo">Contact</h1>
+<h1 class="titrecontact">Contact</h1>
 <div class="row">
 		
 			<div class="col-2"></div>

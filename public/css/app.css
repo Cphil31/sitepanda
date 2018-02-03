@@ -3,6 +3,7 @@ body{
 }
 .bienvenue{
 	margin-top:2em;
+	color: white;
 }
 h1{
 	text-align:center;
@@ -29,6 +30,17 @@ text-align: justify;
 }
 .titrediapo{
 	margin-bottom:5%;
+	color: white;
+}
+.qui{
+	margin-top:3%;
+	margin-bottom:5%;
+	color: white;
+}
+.titrecontact{
+	margin-top:3%;
+	margin-bottom:5%;
+	color: white;
 }
 .d-block{
 	height:370px;
