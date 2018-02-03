@@ -38,7 +38,10 @@
 
 
 <div class="source">
-    <div >Sources texte : <a href="https://pixabay.com/" style="color:white;" target="_blank">>pixabay</a></div>
+    <div >Sources texte : 
+        <a href="https://fr.wikipedia.org/wiki/Panda" style="color:white;" target="_blank">wikipedia</a> 
+        <a href="https://www.zoobeauval.com/les-animaux/en-vedette/pandas-geants" style="color:white;" target="_blank">, zoo de beauval</a>
+    </div>
     <div >Sources images : <a href="https://pixabay.com/" style="color:white;" target="_blank">>pixabay</a> </div>
 </div>
 
