@@ -34,8 +34,6 @@
         </div> 
     
 </div>
-
-
 <div class="source">
     <div >Sources texte : 
         <a href="https://fr.wikipedia.org/wiki/Panda" style="color:white;" target="_blank">wikipedia</a> 
