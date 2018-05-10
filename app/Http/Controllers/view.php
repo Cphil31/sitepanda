@@ -23,7 +23,7 @@ class view extends Controller
 
     public function contact()
     {
-        return view('contact');
+        return view('formcontact');
     }
     public function video()
     {
