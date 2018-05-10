@@ -1,0 +1,12 @@
+.titrecontact{
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.valide{
+	margin-top: 2%;
+	font-size: 2em;
+	background-color: black;
+	color: white;
+	width: 100%;
+	border-radius: 20px 20px 20px 20px;
+}

@@ -38,7 +38,7 @@
 					</div>
 
 
-					<button type="submit" class="btn btn-primary btn-lg btn-block">Envoyer</button>
+					<button type="submit" class="valide" style="background color:#a3a1a1;">Envoyer</button>
 				</form>
 
 			</div>
