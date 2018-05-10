@@ -1,12 +1,20 @@
 body{
 	background-color: #e3dede;
-	font-family: 'Pacifico', cursive;
+	color: black;
 }
 .header{
 	background-color: black;
 	color:white;
 	width: 100%;
 	height:10%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+.question{
+	
+	margin-top: 2%;
+	font-size: 4em;
+	text-align: center;
 }
 .spaceh{
 	width: 60%;
@@ -14,23 +22,18 @@ body{
 .acceuil {
 	margin-left: 70%;
 }
-.acceuil,.qui,.diaporama,.contact{
-	
+.acceuil,.qui,.diaporama,.contact{	
 	display: inline-block;
-
 }
 .bienvenue{
 	margin-top:2em;
 	font-size: 4em;
 	text-align: center;
-
 }
 h1{
 	text-align:center;
 }
 a{
-margin-top: 1em;	
-margin-bottom:1em; 
 color:white;
 }
 p{
