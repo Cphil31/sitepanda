@@ -1,0 +1,9 @@
+.titrediapo{
+	text-align: center;
+	font-size: 3em;
+}
+.carroussel{
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%; 
+}

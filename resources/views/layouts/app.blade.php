@@ -5,6 +5,7 @@
 
     <link rel="stylesheet"  type="text/css" href="../css/home.css">
     <link rel="stylesheet"  type="text/css" href="../css/qui.css">
+    <link rel="stylesheet"  type="text/css" href="../css/diapo.css">
     
 </head>
 <body>
