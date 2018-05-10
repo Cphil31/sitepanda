@@ -12,33 +12,26 @@
     @show
 
     <div class="header">
-        
-    
-        <ul class="nav justify-content-end">
-          <li class="nav-item">
-            <a class="nav-link active" href="/">Acceuil</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="/qui">Qui sont-ils </a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="/diaporama">Diaporama</a>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="/contact">Contact</a>
-        </li>
-    </ul>
 
+        <div class="acceuil">
+            <a href="/">Acceuil</a>
+        </div>
+        <div class="qui">
+            <a class="nav-link" href="/qui">Qui sont-ils </a>
+        </div>
+        <div class="diaporama">
+            <a class="nav-link" href="/diaporama">Diaporama</a>
+        </div>
+        <div class="contact">
+            <a class="nav-link" href="/contact">Contact</a>
+        </div>
     </div>
     
-<div class="row">
-    <div class="col-1"></div>  
-    <div class="col-10">
-       <div class="container">
+    
+         <div class="container-fluid">
             @yield('content')
         </div> 
-    </div>
-    <div class="col-1"></div>
+    
 </div>
 
 

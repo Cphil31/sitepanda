@@ -9,5 +9,5 @@
 @endsection
 
 @section('content')
-    <h1 class="bienvenue"> Bienvenue sur mon site dédié aux pandas </h1>
+    <div class="bienvenue"> Bienvenue sur mon site dédié aux pandas </div>
 @endsection

@@ -4,11 +4,26 @@ body{
 .header{
 	background-color: black;
 	color:white;
+	width: 100%;
 	height:10%;
+}
+.spaceh{
+	width: 60%;
+}
+.acceuil {
+	margin-left: 70%;
+}
+.acceuil,.qui,.diaporama,.contact{
+	
+	display: inline-block;
+
 }
 .bienvenue{
 	margin-top:2em;
 	color: white;
+	font-size: 3em;
+	text-align: center;
+
 }
 h1{
 	text-align:center;
@@ -38,10 +53,7 @@ text-align: justify;
 	margin-bottom:2.5%;
 	color:white;
 }
-.qui{
-	margin-top:3%;
-	margin-bottom:5%;
-	color:white;
+
 }
 .titrecontact{
 	margin-top:3%;
